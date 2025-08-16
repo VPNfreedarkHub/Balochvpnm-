@@ -1,7 +1,3 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.184:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%A8%D9%86%DB%8C
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%D8%A8%D9%86%DB%8C3
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.184:8880?mode=gun&security=none&encryption=none&type=grpc#v8%E2%9A%A1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-172.187.105.25-0297
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@188.42.89.145:443?path=%2F%40Rayan_Config&security=tls&encryption=none&host=rayan-12.leila.dpdns.org&fp=chrome&type=ws&sni=rAyAn-12.LeIlA.DpDnS.OrG#ramo
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%D8%AE%D8%A8%DB%8C%D8%A8
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%D8%A7%D8%B1%D8%B2%D8%B4%20%D8%AF%D8%A7%D8%B1%D9%87
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#%DA%86%D9%88%D9%86%D9%87%D8%9F
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#v6%E2%9A%A1
